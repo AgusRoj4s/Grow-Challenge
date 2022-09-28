@@ -1,4 +1,4 @@
-GR0W CHALLENGE
+GROW CHALLENGE
 
 1 - run 'npm i'
 
